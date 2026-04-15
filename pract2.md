@@ -1,4 +1,12 @@
 ### lauching first instance :
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d768fd30-c615-4981-b78c-f0fa7f824018" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/85c791df-2fae-40b0-9151-c0446e667543" />
+
+
+
+
 <img width="1600" height="755" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/42a18e0b-6caf-4760-93c2-6b78e0e2dd39" />
 
 ### connecting SHH using putty :
